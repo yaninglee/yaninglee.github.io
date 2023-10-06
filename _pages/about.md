@@ -1,6 +1,3 @@
-My Homepage
-======
-
 Personal Introduction
 ------
 Hello! This is Yaning! I am a second year undergraduate student majoring in Industrial Design Engineering from [XJTU-POLIMI Joint School of Design and Innovation](http://jsdi.xjtu.edu.cn/),[Xi'an Jiaotong University](http://www.xjtu.edu.cn/) and [Politecnico di Milano](https://www.polimi.it/). Now I am the student director of Applied Smart Interaction Lab. In my spare time, I like painting, travelling and also giving speech.
