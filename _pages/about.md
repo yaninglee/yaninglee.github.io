@@ -21,3 +21,10 @@ Collaboration
 Now I am conducting many interesting projects with researchers from various disciplines and universities, such as Politecnico di Milano, Imperial College London, Northeastern University(USA), University of Hongkong, City University of Hongkong etc.
 
 If you are interested in our research or want to have some collaborations, please contact me at yaning.li@mail.polimi.it
+
+---
+title: "Page Not Found"
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /404.html
+---
